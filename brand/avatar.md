@@ -13,7 +13,19 @@ change the face again.
 | 2 | **The Hype Man** | Fade, gold chain, backwards cap, smirk, tandoori leg + tandoor flames. Edgy street energy — leans hardest into "Smoked. Fried. Certified." | `bd3ce8d1-f888-4820-a38c-f34ce4b905b1` |
 | 3 | **The Foodie Nerd** | Curly hair, round glasses, laughing while tearing butter naan over butter masala. Relatable reviewer — best for rating/taste-test formats. | `feeca75b-344e-4d41-b10c-0c09d2ba6093` |
 
-All three wear the black tee + dark warm-lit restaurant look from the Scalio
+**Owner feedback (2026-09-24):** likes #1 Local Bhai, asked for versions built
+from the owner's own reference photo (Higgsfield media `f0e65752-8a3b-4f1c-a2fe-330d7a2a87d3`;
+the photo itself is not committed to the repo).
+
+## Round 2 — reference face × Local Bhai look (GPT Image 2.5, 9:16)
+
+| # | Variant | Job ID |
+|---|---|---|
+| 1A | Black tee, holding biryani, pointing, big grin (straight Local Bhai remake) | `686150dc-aeeb-4de5-9105-936f53122d88` |
+| 1B | Leather jacket over black tee, tandoori plate, cheeky smile | `1baa8d3e-c64b-4bcf-b932-b5529bf17e52` |
+| 1C | Chest-up, talking to camera, pointing at butter masala + roti | `27ac6456-8e2b-4343-9b5d-8e3a1c0c25f1` |
+
+All round 1 concepts wear the black tee + dark warm-lit restaurant look from the Scalio
 spec (`viral-formats.md` #13). They are view-only in the Higgsfield gallery
 (Generations tab); this container can't download from Higgsfield's CDN.
 
