@@ -26,8 +26,8 @@ Pending owner OK.
 ## Added 2026-09-24
 | File | What it is | Status |
 |---|---|---|
-| Biriyani.png | Chicken biryani in copper handi, steam, raita + salan on the side | Looks AI/studio-made. **Awaiting owner approval** before use (AI-image rule). |
-| C0073.MP4 (camera) | Biryani being made (per owner), 22s, 1080p50 | Top pick for reel-02 real B-roll. Drive "quota exceeded" is blocking download. |
+| Biriyani.png | Chicken biryani in copper handi, steam, raita + salan on the side | Looks AI/studio-made. **APPROVED by owner 2026-09-24** for supporting use (real C0073 stays the main proof). Higgsfield media `558ab18e-40a3-42c5-b716-ab00b67ee9ce`. |
+| C0073.MP4 (camera) | Biryani being made (per owner), 21.6s, 1080p50 | Top pick for reel-02 real B-roll. Downloaded via owner-approved Drive copy `C0073-biryani-copy.MP4` (`1Z-DB6_IkWyc6uZ15rdUziVzD8IGRpaR6`). Vertical 1080x1920 30fps, no audio, centre crop → Higgsfield media `929c5a7d-d900-4326-8f64-42a5517abb0a`; 8-frame contact sheet `560aa46c-4871-4f93-9d84-a1c3ab8edb71`. Centre crop NOT yet visually checked. |
 
 ## Camera clips (41, C0057–C0095)
 Sony 1080p50 landscape, uploaded by ishanbanglatv, link-shared. Too large for

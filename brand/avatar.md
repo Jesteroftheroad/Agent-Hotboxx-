@@ -42,6 +42,10 @@ spec (`viral-formats.md` #13). They are view-only in the Higgsfield gallery
   (use in Kling 3.0 / image prompts as `<<<6324089f-acb9-4b48-9010-b171e52a26d9>>>`)
 - Superseded: `hotboxx-host` (1A, ID `0f9872cf-3195-4591-ac86-287880991611`) — same face,
   kept as a backup reference only; do not use as the primary host.
+- Real-restaurant variant (owner-approved idea, 2026-09-24): 1C face in front of the
+  real HOTBOXX cartoon-mural wall (ref: owner interior photo, media `a1e0a27d-8de2-4241-bf4d-b328d906c09b`)
+  → job `e93bff7d-c0d5-4238-b650-2f4e13155c2c`. PENDING owner look; if approved it
+  replaces 1C as the host element and the setting below changes to the real mural.
 - Soul ID (optional): —
 - Fixed wardrobe: plain black crew-neck t-shirt
 - Fixed setting: dark restaurant interior, warm amber strip lighting
