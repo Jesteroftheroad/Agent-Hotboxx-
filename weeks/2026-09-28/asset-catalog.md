@@ -23,6 +23,12 @@ Recommendation: regenerate the host's reference in front of the real mural
 wall (same face, same black tee) so reels read as "this is actually HOTBOXX".
 Pending owner OK.
 
+## Added 2026-09-24
+| File | What it is | Status |
+|---|---|---|
+| Biriyani.png | Chicken biryani in copper handi, steam, raita + salan on the side | Looks AI/studio-made. **Awaiting owner approval** before use (AI-image rule). |
+| C0073.MP4 (camera) | Biryani being made (per owner), 22s, 1080p50 | Top pick for reel-02 real B-roll. Drive "quota exceeded" is blocking download. |
+
 ## Camera clips (41, C0057–C0095)
 Sony 1080p50 landscape, uploaded by ishanbanglatv, link-shared. Too large for
 the Drive connector (>10 MB) and this container can't reach Drive directly.

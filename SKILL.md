@@ -46,6 +46,11 @@ https://hotboxxsilchar.vercel.app.
   The owner adds trending audio at post time (30 seconds inside Instagram).
 - Prefer animating the manager's REAL photos (image-to-video) for food B-roll —
   real food converts better and avoids uncanny fakes.
+- AI / studio food images (owner rule, 2026-09-24): allowed ONLY after asking the
+  owner about that specific image and getting a yes. Log every approval in the
+  week's `asset-catalog.md`. Real footage stays the main proof shot whenever it
+  exists; an approved AI image must show a dish HOTBOXX actually serves, with no
+  third-party brand logos.
 - Every deliverable ships as a review-ready package: video file(s) + suggested
   on-screen text + caption + hashtags + best posting time (IST). Owner approves,
   then posts.
