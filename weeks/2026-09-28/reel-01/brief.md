@@ -1,7 +1,7 @@
 # Reel 01 — Avatar taste-test: Chicken Butter Masala
 
 Format: Scalio formula (viral-formats #13) × avatar taste-test (#11)
-Status: COPY READY · CLIP WAITING on (1) avatar pick, (2) one real photo of
+Status: COPY READY · CLIP WAITING on one real photo of
 Chicken Butter Masala from the manager (ideally with a tandoori roti in frame).
 
 ## Shot list (~12s, 1080x1920, no text, no audio)

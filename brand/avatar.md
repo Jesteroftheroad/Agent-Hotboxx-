@@ -1,6 +1,6 @@
 # HOTBOXX AI host — avatar lock record
 
-**Status: PENDING OWNER PICK** (concepts generated 2026-09-24)
+**Status: LOCKED** (2026-09-24, concept 1A)
 
 Once picked, change status to `LOCKED`, fill in the lock section, and never
 change the face again.
@@ -37,8 +37,9 @@ spec (`viral-formats.md` #13). They are view-only in the Higgsfield gallery
    used with Soul 2.0 for thumbnails/covers.
 
 ## Lock (fill in once picked)
-- Picked concept: —
-- Reference Element ID: —
+- Picked concept: **1A** — owner's reference face × Local Bhai look (job `686150dc-aeeb-4de5-9105-936f53122d88`)
+- Reference Element: `hotboxx-host` · ID `0f9872cf-3195-4591-ac86-287880991611`
+  (use in Kling 3.0 / image prompts as `<<<0f9872cf-3195-4591-ac86-287880991611>>>`)
 - Soul ID (optional): —
 - Fixed wardrobe: plain black crew-neck t-shirt
 - Fixed setting: dark restaurant interior, warm amber strip lighting

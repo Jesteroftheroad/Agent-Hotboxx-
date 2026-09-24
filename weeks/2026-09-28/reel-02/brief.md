@@ -1,7 +1,7 @@
 # Reel 02 — Price-shock reveal: ₹109 Chicken Biryani
 
 Format: Avatar price-drop reveal (viral-formats #12) × price-shock (#2)
-Status: COPY READY · CLIP WAITING on (1) avatar pick, (2) one real photo of the
+Status: COPY READY · CLIP WAITING on one real photo of the
 everyday Chicken Biryani (a steam/lid-lift shot is ideal).
 
 ## Shot list (~12s, 1080x1920, no text, no audio)
