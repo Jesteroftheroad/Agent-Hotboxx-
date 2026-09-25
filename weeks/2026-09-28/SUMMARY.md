@@ -2,7 +2,7 @@
 
 | Post order | Reel | Trend it rides | Status |
 |---|---|---|---|
-| 1 | reel-02 — ₹109 Chicken Biryani price-shock | Disbelief / price reveal | Copy ready · avatar LOCKED · clip needs 1 biryani photo |
+| 1 | reel-02 — ₹109 Chicken Biryani price-shock | Disbelief / price reveal | **Clip ready (12s)** — awaiting owner review |
 | 2 | reel-01 — Butter Masala avatar taste-test (+ free roti promo) | Process shots, Scalio formula | Copy ready · avatar LOCKED · clip needs 1 butter masala photo |
 | 3 | (held) ₹999 HOTBOXX Special Puja box reveal | Hidden reveal / festival special | Blocked: Puja dates, which biryani, real box footage |
 

@@ -1,6 +1,6 @@
 # HOTBOXX AI host — avatar lock record
 
-**Status: LOCKED** (2026-09-24, concept 1C — owner switched from 1A)
+**Status: LOCKED** (2026-09-25 — 1C face in the real HOTBOXX restaurant)
 
 Once picked, change status to `LOCKED`, fill in the lock section, and never
 change the face again.
@@ -38,16 +38,18 @@ spec (`viral-formats.md` #13). They are view-only in the Higgsfield gallery
 
 ## Lock (fill in once picked)
 - Picked concept: **1C** — owner's reference face, chest-up talking to camera (job `27ac6456-8e2b-4343-9b5d-8e3a1c0c25f1`)
-- Reference Element: `hotboxx-host-1c` · ID `6324089f-acb9-4b48-9010-b171e52a26d9`
-  (use in Kling 3.0 / image prompts as `<<<6324089f-acb9-4b48-9010-b171e52a26d9>>>`)
+- **Primary Reference Element: `hotboxx-host-real` · ID `171c9a2e-93ec-45d0-a2ff-919e53eb492d`**
+  (source job `e93bff7d-c0d5-4238-b650-2f4e13155c2c`; owner approved "host ok" 2026-09-25).
+  Use in prompts as `<<<171c9a2e-93ec-45d0-a2ff-919e53eb492d>>>`, or pass a still of him
+  as Kling 3.0 `start_image`.
+- Previous: `hotboxx-host-1c` · ID `6324089f-acb9-4b48-9010-b171e52a26d9` (dark background) — backup only.
 - Superseded: `hotboxx-host` (1A, ID `0f9872cf-3195-4591-ac86-287880991611`) — same face,
   kept as a backup reference only; do not use as the primary host.
 - Real-restaurant variant (owner-approved idea, 2026-09-24): 1C face in front of the
   real HOTBOXX cartoon-mural wall (ref: owner interior photo, media `a1e0a27d-8de2-4241-bf4d-b328d906c09b`)
-  → job `e93bff7d-c0d5-4238-b650-2f4e13155c2c`. PENDING owner look; if approved it
-  replaces 1C as the host element and the setting below changes to the real mural.
+  → job `e93bff7d-c0d5-4238-b650-2f4e13155c2c`. APPROVED → now the primary element above.
 - Soul ID (optional): —
 - Fixed wardrobe: plain black crew-neck t-shirt
-- Fixed setting: dark restaurant interior, warm amber strip lighting
+- Fixed setting: real HOTBOXX interior — bright white wall, black-and-orange cartoon mural, orange drips, grey marble, LED strips
 - Rules: presents dishes, delivers hooks, reacts. Never a fake customer, never a
   fake chef, never replaces real dish footage.
