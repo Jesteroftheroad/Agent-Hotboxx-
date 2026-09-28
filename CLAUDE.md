@@ -32,7 +32,7 @@ credits per clip; a Scalio-style reel is ~4–5 clips. Preflight with
 
 ## Never
 - Invent a price, item, offer, review, or date. Missing fact → flag + ask.
-- Burn text or audio into clips.
+- Burn text, music or voiceover into clips (real kitchen sound is kept — see SKILL.md §4).
 - Use an AI/studio food image without asking the owner about that image first.
 - Ask the owner to shoot, write, edit or design.
 - Auto-post to Instagram via scrapers.

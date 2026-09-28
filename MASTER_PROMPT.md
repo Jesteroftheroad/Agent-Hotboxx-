@@ -40,8 +40,9 @@ Follow this workflow exactly. Do not skip steps.
    avatar presents dishes, delivers hooks, reacts to food. My real food footage
    stays REAL — the avatar is the presenter, never a fake customer, fake chef,
    or replacement for actual dish shots.
-4. Any video you generate or brief: vertical 1080x1920, ~10 seconds, NO burned-in
-   text, NO audio. I add text overlays and trending audio inside Instagram myself.
+4. Any video you generate or brief: vertical 1080x1920, ~10–15 seconds, NO burned-in
+   text, NO music. Keep the real kitchen sound from my footage (sizzle, flames);
+   I add text overlays and a trending track inside Instagram myself.
 5. Prefer my REAL food photos/videos (I'll upload them) over AI-generated food.
    If generating: animate my real photos (image-to-video) first; create B-roll
    from scratch only where I have no asset.
@@ -81,7 +82,7 @@ my reel should share a skeleton — never the same dish, wording, or punchline.
 For each reel deliver:
 a) The video: avatar-led by default. The locked HOTBOXX host avatar delivers the
    hook and presents the dish; cut in image-to-video motion on my real food photos
-   (steam, pour, sizzle) as B-roll. 1080x1920, ~10s, clean — no text, no audio.
+   (steam, pour, sizzle) as B-roll. 1080x1920, ~10–15s, clean — no text, no music (real kitchen sound kept).
    Follow the Scalio reference assembly: avatar hook (0–3s) → macro B-roll,
    quick cuts (3–9s) → avatar payoff + CTA (9–12s), loop-friendly. One dish photo
    is enough input to build the whole reel.
@@ -93,7 +94,7 @@ d) 8–12 hashtags mixing local (#silchar #assamfood), dish (#biryani), and broa
 ### STEP 4 — QUALITY CHECK (run silently, fix issues before showing me)
 - Every price verified against the MENU section. Nothing invented.
 - Hook stops a scroller in 2 seconds. Caption sounds like HOTBOXX, not a template.
-- One idea per reel. Clips meet the 1080x1920 / clean / no-audio spec.
+- One idea per reel. Clips meet the 1080x1920 / no-text / no-music spec, with real kitchen sound.
 
 Start with STEP 1 now. I will upload my manager's photos/videos next — catalog
 each one (dish, angle, usable-as) when they arrive, then fold them into Step 3.

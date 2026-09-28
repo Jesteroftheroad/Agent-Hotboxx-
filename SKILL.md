@@ -42,8 +42,12 @@ https://hotboxxsilchar.vercel.app.
   then lock it: same face and vibe in every reel. The avatar presents dishes,
   delivers hooks, reacts to food. Real food stays real: the avatar never replaces
   actual dish footage and never plays a fake customer or fake chef.
-- Video clips: vertical 1080x1920, ~10 seconds, NO burned-in text, NO audio.
-  The owner adds trending audio at post time (30 seconds inside Instagram).
+- Video clips: vertical 1080x1920, ~10–15 seconds, NO burned-in text, NO music.
+  AUDIO (owner rule, 2026-09-28): keep the REAL kitchen sound from the manager's
+  footage (sizzle, flames, tandoor, pour); put a low real-restaurant ambience bed
+  under AI host/B-roll shots; loudness-normalise to about -14 LUFS. Never add music
+  or voiceover — the owner adds a trending track in Instagram at post time and
+  lowers the original sound under it.
 - Prefer animating the manager's REAL photos (image-to-video) for food B-roll —
   real food converts better and avoids uncanny fakes.
 - AI / studio food images (owner rule, 2026-09-24): allowed ONLY after asking the
@@ -94,7 +98,7 @@ For each chosen viral reel, extract the FORMULA only:
    - Minimum viable input: ONE dish photo — avatar segments + macro B-roll all
      generate from it.
    - Short B-roll via text-to-video only where no real asset exists.
-2. Keep clips CLEAN (no text, no audio) per §4.
+2. Keep clips CLEAN (no text, no music) per §4 — real kitchen sound stays.
 3. Write for each reel: 3 on-screen text hook options, full caption in brand
    voice, 8–12 hashtags (mix: #silchar #assamfood #biryani + broad #foodreels),
    CTA (order on WhatsApp / visit today).
@@ -106,7 +110,7 @@ Plus a one-line weekly summary: what was made, which trend each rides, post orde
 ## 6. Quality gates (check before delivering)
 
 - [ ] Every price/claim verified against §7 or the site — none invented.
-- [ ] Clips are 1080x1920, ~10s, no burned text, no audio.
+- [ ] Clips are 1080x1920, ~10–15s, no burned text, no music; real kitchen sound kept, loudness ~-14 LUFS.
 - [ ] Hook would stop a scroller in 2 seconds (say it out loud — is it punchy?).
 - [ ] Caption sounds like HOTBOXX, not a generic food page.
 - [ ] Nothing copied verbatim from the reference reel (structure only).

@@ -3,7 +3,21 @@
 Format: Avatar price-drop reveal (viral-formats #12) × price-shock (#2)
 Status: **CLIP READY — awaiting owner review**
 
-## v2 (current) — owner feedback on v1: "real biryani cuts are bad", "boring / no punch"
+## v3 (current) — v2 edit + REAL KITCHEN SOUND (owner chose option 1, 2026-09-28)
+- `reel-02-v3-sound.mp4` — 1080x1920, 30fps, 14.4s, AAC 48k stereo, loudness-normalised to -14 LUFS
+  (mean -18.3 dB, peak -1.2 dB). No music, no voiceover, no text.
+- Higgsfield media `142e956a-61f3-45e3-a058-cfd05923c421`
+  https://d2ol7oe51mr4n9.cloudfront.net/user_39GZfNngKCfzzzoylmd0szLnhni/142e956a-61f3-45e3-a058-cfd05923c421.mp4
+- Sound per cut: each real shot keeps its own camera audio (flame, sizzle, pour,
+  garnish, tandoor, night street at the sign). Host + steam shots: low deep-fry
+  sizzle bed from C0057 (host) / C0073 kitchen audio (steam).
+- QA: every segment has audio (-14.6 to -30.9 dB mean); speech check (Whisper)
+  found NO speech. A first pass used C0080 customer chatter under the host and
+  Whisper picked up speech-like chatter at 0.7–2.7s, so it was swapped for sizzle.
+- Owner at post time: add a trending track in Instagram and lower "original
+  audio" under it (or post with just the kitchen sound).
+
+## v2 (silent) — superseded by v3 — owner feedback on v1: "real biryani cuts are bad", "boring / no punch"
 - `reel-02-v2c.mp4` — 1080x1920, 30fps, 14.3s, **no audio, no text**
 - Higgsfield media `f4d06477-55a8-4a06-af68-de48654d0960`
   https://d2ol7oe51mr4n9.cloudfront.net/user_39GZfNngKCfzzzoylmd0szLnhni/f4d06477-55a8-4a06-af68-de48654d0960.mp4
